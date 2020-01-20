@@ -7,9 +7,9 @@
 #   puts status
 # end
 
-phrase1 = "'It's-a me, Mario!'"
-phrase2 = "'Thank you Mario! But Our Princess Is In Another Castle!'"
-phrase3 = "'It's Dangerous To Go Alone! Take This'"
+phrase1 = "It's-a me, Mario!"
+phrase2 = "Thank you Mario! But Our Princess Is In Another Castle!"
+phrase3 = "It's Dangerous To Go Alone! Take This"
 
 
 def mario 
