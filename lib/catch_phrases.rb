@@ -7,23 +7,23 @@
 #   puts status
 # end
 
-# phrase1 = "'It's-a me, Mario!'"
-# phrase2 = "'Thank you Mario! But Our Princess Is In Another Castle!'"
-# phrase3 = "'It's Dangerous To Go Alone! Take This'"
+phrase1 = "'It's-a me, Mario!'"
+phrase2 = "'Thank you Mario! But Our Princess Is In Another Castle!'"
+phrase3 = "'It's Dangerous To Go Alone! Take This'"
 
 
 def mario 
-  phrase1 = "It's-a me, Mario!\n"
+  # phrase1 = "It's-a me, Mario!\n"
   puts phrase1
 end
 
 def toadstool
-  phrase2 = "Thank You Mario! But Our Princess Is In Another Castle!\n"
+  # phrase2 = "Thank You Mario! But Our Princess Is In Another Castle!\n"
   puts phrase2
 end
 
 def link
-  phrase3 = "It's Dangerous To Go Alone! Take This.\n"
+  # phrase3 = "It's Dangerous To Go Alone! Take This.\n"
   puts phrase3
 end
 
